@@ -1,1 +1,2 @@
-﻿Chào bạn !
+﻿Tạo file Hello World.html hoặc từ desktop hoặc từ web
+ Lưu file lên repo hello-world
